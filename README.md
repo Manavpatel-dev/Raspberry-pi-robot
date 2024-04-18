@@ -23,6 +23,3 @@ bash rpi-robot.sh
 
 Goto `http://<ip addr of your rpi>:5000` in your browser for remote control.
 ![](images/remote-control-over-browser.jpg)
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
